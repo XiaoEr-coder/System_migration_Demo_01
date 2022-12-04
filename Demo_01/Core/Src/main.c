@@ -29,7 +29,12 @@
 
 /* Private typedef -----------------------------------------------------------*/
 /* USER CODE BEGIN PTD */
-
+/*csdn 参考网站:
+*(1)本次项目代码移植参考：
+		https://blog.csdn.net/qq_45945548/article/details/121667025?ops_request_misc=&request_id=&biz_id=102&utm_term=ucosiii%E5%AE%98%E6%96%B9stm32f103%E7%A7%BB%E6%A4%8D&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-1-121667025.142^v67^control,201^v3^control_2,213^v2^t3_esquery_v1&spm=1018.2226.3001.4187
+*(2)软件仿真参考：
+		https://blog.csdn.net/qq_41675500/article/details/121727792?app_version=5.11.1&code=app_1562916241&csdn_share_tail=%7B%22type%22%3A%22blog%22%2C%22rType%22%3A%22article%22%2C%22rId%22%3A%22121727792%22%2C%22source%22%3A%22qq_44596875%22%7D&uLinkId=usr1mkqgl919blen&utm_source=app
+*/
 /* USER CODE END PTD */
 
 /* Private define ------------------------------------------------------------*/
